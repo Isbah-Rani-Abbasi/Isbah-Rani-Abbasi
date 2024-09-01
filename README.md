@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Isbah-Rani-Abbasi
-- 👀 I’m interested in ... exploring new 💡 
+- 👀 I’m interested in exploring new 💡 
 - 🌱 I’m currently learning at Fast NUCES, Karachi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: through email 
+- 📫 How to reach me: through isbahabbasi204@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 😁 🌠 
 
