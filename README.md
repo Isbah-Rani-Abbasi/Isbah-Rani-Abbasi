@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isbah-Rani-Abbasi
 - 👀 I’m interested in exploring new 💡 
-- 🌱 I’m currently learning at Fast NUCES, Karachi
+- 🌱 I’m currently studying at Fast NUCES, Karachi
 - 📫 How to reach me: through isbahabbasi204@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 😁 🌠 
