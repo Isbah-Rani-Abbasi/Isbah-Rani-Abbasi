@@ -94,7 +94,7 @@ class Isbah:
 - 🔧 **Tech Stack:** HTML, CSS, JavaScript
 - ✨ **Highlights:** Interactive UI, realistic experiment outcomes
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi/Gen-AI-Basic-Project-)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmnaAhsan533/Virtual-Biochemistry-Lab)
 
 ---
 ### 📚 Course Registration System
