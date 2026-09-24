@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isbahabbasi204@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Isbah-Rani-Abbasi&color=2E74B5&style=for-the-badge)
 
 </div>
 
@@ -88,17 +87,6 @@ class Isbah:
 
 ---
 
-### 📚 Course Registration System
-> A full-stack web app for student, teacher, and admin course management
-
-- 👥 **Role-Based Access:** Students, Teachers, Admins with separate dashboards
-- 🔧 **Tech Stack:** React, Python/Flask, Supabase (PostgreSQL)
-- ✨ **Highlights:** Course enrollment, timetable viewing, RESTful APIs
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi/DB-Project-Spring-26)
-
----
-
 ### 🔬 Virtual Biochemistry Lab
 > A web-based virtual laboratory for remote bioscience education
 
@@ -107,6 +95,16 @@ class Isbah:
 - ✨ **Highlights:** Interactive UI, realistic experiment outcomes
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi/Gen-AI-Basic-Project-)
+
+---
+### 📚 Course Registration System
+> A full-stack web app for student, teacher, and admin course management
+
+- 👥 **Role-Based Access:** Students, Teachers, Admins with separate dashboards
+- 🔧 **Tech Stack:** React, Python/Flask, Supabase (PostgreSQL)
+- ✨ **Highlights:** Course enrollment, timetable viewing, RESTful APIs
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi/DB-Project-Spring-26)
 
 ---
 
