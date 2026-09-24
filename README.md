@@ -14,26 +14,31 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-class Isbah:
-    name       = "Isbah Rani Abbasi"
-    university = "FAST NUCES Karachi"
-    degree     = "BS Computer Science"
-    cgpa       = 3.93 / 4.00
-    year       = "Semester 3 (2024-2028)"
+### 👋 Hi there, I'm Isbah! 
 
-    interests  = [
-        "Artificial Intelligence & Machine Learning",
-        "Full-Stack Development",
-        "Workflow Automation (n8n)",
-        "UI/UX Design",
-        "Business Development & Tech Startups"
-    ]
+I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I'm at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
 
-    currently_learning = ["Advanced AI/ML", "RISC-V Architecture", "Computer Networking"]
-    fun_fact           = "I won an inter-university Badminton Championship the same semester I got a 4.0 GPA! 🏸🎓"
-```
+---
 
+### 🛠️ What I Work With
+* **Languages & Systems:** Python, C, C++, x86 Assembly
+* **Databases & Data:** PostgreSQL, Oracle DB, SQL query design & optimization
+* **Automation & Software:** Building automation pipelines, socket programming, and custom tooling
+* **AI & Logic:** Constraint Satisfaction Problems (CSPs), pathfinding, and algorithmic problem-solving
+
+---
+
+### 🤝 Let's Collaborate!
+I'm actively looking to connect and collaborate with developers, engineers, and creators who are interested in:
+* **Automation & Tooling:** Building smart scripts and systems that save time and eliminate friction.
+* **Backend & Systems Development:** Writing robust, low-level or high-performance code.
+* **Data & Database Engineering:** Optimizing queries, managing relational databases (PostgreSQL), and handling data pipelines.
+* **Innovative Tech Projects:** Tackling creative challenges where logic and systems meet.
+
+---
+
+### 💬 Grab a Virtual Coffee & Chat
+Take a look at my pinned repositories below! Feel free to open an issue, start a discussion, or reach out if you want to geek out over code, talk about a potential collaboration, or ask about any of my projects.
 ---
 
 ## 🛠️ Tech Stack
