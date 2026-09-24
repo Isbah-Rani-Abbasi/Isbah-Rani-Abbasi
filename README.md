@@ -18,15 +18,6 @@
 
 I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I'm at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
 
----
-
-### 🛠️ What I Work With
-* **Languages & Systems:** Python, C, C++, x86 Assembly
-* **Databases & Data:** PostgreSQL, Oracle DB, SQL query design & optimization
-* **Automation & Software:** Building automation pipelines, socket programming, and custom tooling
-* **AI & Logic:** Constraint Satisfaction Problems (CSPs), pathfinding, and algorithmic problem-solving
-
----
 
 ### 🤝 Let's Collaborate!
 I'm actively looking to connect and collaborate with developers, engineers, and creators who are interested in:
@@ -35,9 +26,6 @@ I'm actively looking to connect and collaborate with developers, engineers, and 
 * **Data & Database Engineering:** Optimizing queries, managing relational databases (PostgreSQL), and handling data pipelines.
 * **Innovative Tech Projects:** Tackling creative challenges where logic and systems meet.
 
----
-
-### 💬 Grab a Virtual Coffee & Chat
 Take a look at my pinned repositories below! Feel free to open an issue, start a discussion, or reach out if you want to geek out over code, talk about a potential collaboration, or ask about any of my projects.
 ---
 
