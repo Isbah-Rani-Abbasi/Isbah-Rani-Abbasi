@@ -14,7 +14,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I's at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
+I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I'm at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
 
 ### 🤝 Let's Collaborate!
 I'm actively looking to connect and collaborate with developers, engineers, and creators who are interested in:
@@ -89,6 +89,16 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 
 ---
 
+### 📚 Course Registration System
+> A full-stack web app for student, teacher, and admin course management
+
+- 👥 **Role-Based Access:** Students, Teachers, Admins with separate dashboards
+- 🔧 **Tech Stack:** React, Python/Flask, Supabase (PostgreSQL)
+- ✨ **Highlights:** Course enrollment, timetable viewing, RESTful APIs
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi/DB-Project-Spring-26)
+
+---
 
 ### 🌙 Nightmare Visualizer
 > A Generative AI application exploring prompt engineering and AI content generation
