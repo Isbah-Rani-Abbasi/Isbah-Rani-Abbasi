@@ -120,13 +120,9 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 
 <hr style="height:2px; border:none; background-color:#30363d;" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-![Isbah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isbah-Rani-Abbasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isbah-Rani-Abbasi&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isbah-Rani-Abbasi&theme=tokyonight&hide_border=true)
 
