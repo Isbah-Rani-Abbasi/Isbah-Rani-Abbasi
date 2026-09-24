@@ -10,14 +10,11 @@
 
 </div>
 
----
+<hr style="height:2px; border:none; background-color:#30363d;" />
 
 ## 🙋‍♀️ About Me
 
-### 👋 Hi there, I'm Isbah! 
-
-I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I'm at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
-
+I'm a software developer and problem-solver passionate about building efficient systems, automating workflows, and turning complex logic into clean, working code. When I's at the terminal, you'll find me working across systems programming, automation scripts, and database architecture.
 
 ### 🤝 Let's Collaborate!
 I'm actively looking to connect and collaborate with developers, engineers, and creators who are interested in:
@@ -26,9 +23,9 @@ I'm actively looking to connect and collaborate with developers, engineers, and 
 * **Data & Database Engineering:** Optimizing queries, managing relational databases (PostgreSQL), and handling data pipelines.
 * **Innovative Tech Projects:** Tackling creative challenges where logic and systems meet.
 
-  
 Take a look at my pinned repositories below! Feel free to open an issue, start a discussion, or reach out if you want to geek out over code, talk about a potential collaboration, or ask about any of my projects.
----
+
+<hr style="height:3px; border:none; background-color:#58a6ff;" />
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +63,7 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<hr style="height:2px; border:none; background-color:#30363d;" />
 
 ## 🚀 Flagship Projects
 
@@ -91,6 +88,7 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmnaAhsan533/Virtual-Biochemistry-Lab)
 
 ---
+
 ### 📚 Course Registration System
 > A full-stack web app for student, teacher, and admin course management
 
@@ -120,7 +118,7 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samanazehra/Multi-Threaded-Producer-Consumer-Problem-Simulation)
 
----
+<hr style="height:2px; border:none; background-color:#30363d;" />
 
 ## 📊 GitHub Stats
 
@@ -134,7 +132,7 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 
 </div>
 
----
+<hr style="height:2px; border:none; background-color:#30363d;" />
 
 ## 🏆 Achievements
 
@@ -145,7 +143,7 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 | 💧 **Fundraised for clean water well — Nagarparkar (1,800+ beneficiaries)** | 2024 |
 | 🎓 **CGPA 3.93/4.00** — FAST NUCES Karachi | 2024–Present |
 
----
+<hr style="height:2px; border:none; background-color:#30363d;" />
 
 ## 🤝 Connect With Me
 
@@ -156,8 +154,6 @@ Take a look at my pinned repositories below! Feel free to open an issue, start a
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me!-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isbah-Rani-Abbasi)
 
 </div>
-
----
 
 <div align="center">
 
