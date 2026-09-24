@@ -25,6 +25,8 @@ I'm actively looking to connect and collaborate with developers, engineers, and 
 * **Backend & Systems Development:** Writing robust, low-level or high-performance code.
 * **Data & Database Engineering:** Optimizing queries, managing relational databases (PostgreSQL), and handling data pipelines.
 * **Innovative Tech Projects:** Tackling creative challenges where logic and systems meet.
+
+  
 Take a look at my pinned repositories below! Feel free to open an issue, start a discussion, or reach out if you want to geek out over code, talk about a potential collaboration, or ask about any of my projects.
 ---
 
